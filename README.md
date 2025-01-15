@@ -1,11 +1,10 @@
 - 👋 Hello there I'm Emmanuel Jones 
 - 👀 I’m interested in programming,creative thinking and team work!
-- 🌱 I’m currently learning the programming Language Php and and how to better my life as a programmer
+- 🌱 I’m currently learning the front-end framework Reactjs and and how to better my life as a programmer
 - 💞️ I’m looking to collaborate on some web(web apps) projects.
 -Programming Languages I know:
 ->JavaScript
 ->HTML
 ->CSS
 ->JQuery
-->C++
 - 📫 You can reach on my E-mail emmanueljonesc@gmail.com 👍👍
